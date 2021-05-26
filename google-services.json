@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "661794060875",
+    "project_id": "e-prescription-applicati-f6338",
+    "storage_bucket": "e-prescription-applicati-f6338.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661794060875:android:4be39dde162b39c65dabce",
+        "android_client_info": {
+          "package_name": "com.example.e_prescriptionapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661794060875-2gs6lefbr6q2ajo7a8cnr3ngrjegsh7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhnCFgOQUH9cf856ql0n0AhmzF7JMRGCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661794060875-2gs6lefbr6q2ajo7a8cnr3ngrjegsh7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
