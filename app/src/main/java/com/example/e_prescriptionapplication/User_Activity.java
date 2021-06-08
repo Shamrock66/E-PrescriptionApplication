@@ -23,21 +23,21 @@ public class User_Activity extends AppCompatActivity {
         mPharmcistBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(getApplicationContext(),PharmacistRegister.class));
+                startActivity(new Intent(getApplicationContext(),PharmacistLogin.class));
             }
         });
 
         mPhysicianBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(getApplicationContext(),PhysicianRegister.class));
+                startActivity(new Intent(getApplicationContext(),PhysicianLogin.class));
             }
         });
 
         mPatientBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(getApplicationContext(),PatientRegister.class));
+                startActivity(new Intent(getApplicationContext(),Login.class));
             }
         });
     }
